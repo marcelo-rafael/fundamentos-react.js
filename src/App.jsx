@@ -20,7 +20,6 @@ export default () => (
       <Card titulo="#08 - Renderização Condicional" color="#982395">
         <ParOuImpar numero={20} />
         <UsuarioInfo usuario={{ nome: "Marcelo" }} />
-        <UsuarioInfo usuario={{ email: "marcelo@marcelo.com" }} />
       </Card>
       <Card titulo="#07 - Desafio Repetição" color="#ff4b45">
         <TabelaProdutos />
