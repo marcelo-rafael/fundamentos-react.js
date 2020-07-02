@@ -1,4 +1,9 @@
-React Fundamentos
+#React Fundamentos
+
+
+
+##Aprendendo os fundamentos do React pelo curso Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
+
 
 Criando Projeto
 Exibindo String na tela
